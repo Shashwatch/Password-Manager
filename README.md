@@ -1,2 +1,5 @@
 # Password-Manager
-It is a graphical user interface application that can be used to store the password along with the username. All the data will be encrypted to prove better security and will be decrypted on demand. Every password will also be hidden behind a wall which we can enter by using the application password.
+* Designed a secure Password Manager using Java and MySQL for backend data storage.
+* Implemented encryption for usernames and passwords, protected by a master application password.
+* Ensured safe storage and retrieval of encrypted data using best security practices.
+* Technologies Used: Java, MySQL.
